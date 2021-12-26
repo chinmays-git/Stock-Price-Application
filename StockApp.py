@@ -31,7 +31,4 @@ st.write(
 st.line_chart(tickerDf.Volume)
 
 
-st.write("""
-    by Chinmay Salgaonkar
-    
-""")
+
